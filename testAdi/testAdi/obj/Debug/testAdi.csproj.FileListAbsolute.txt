@@ -1,0 +1,42 @@
+c:\users\aglick\documents\visual studio 2012\Projects\testAdi\testAdi\bin\Debug\testAdi.exe.config
+C:\Users\aglick\Documents\Visual Studio 2012\Projects\testAdi\testAdi\obj\Debug\testAdi.csprojResolveAssemblyReference.cache
+C:\Users\aglick\Documents\Visual Studio 2012\Projects\testAdi\testAdi\bin\Debug\testAdi.exe
+C:\Users\aglick\Documents\Visual Studio 2012\Projects\testAdi\testAdi\bin\Debug\testAdi.pdb
+C:\Users\aglick\Documents\Visual Studio 2012\Projects\testAdi\testAdi\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\aglick\Documents\Visual Studio 2012\Projects\testAdi\testAdi\bin\Debug\WebDriver.dll
+C:\Users\aglick\Documents\Visual Studio 2012\Projects\testAdi\testAdi\bin\Debug\WebDriver.Support.dll
+C:\Users\aglick\Documents\Visual Studio 2012\Projects\testAdi\testAdi\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\aglick\Documents\Visual Studio 2012\Projects\testAdi\testAdi\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\aglick\Documents\Visual Studio 2012\Projects\testAdi\testAdi\bin\Debug\WebDriver.pdb
+C:\Users\aglick\Documents\Visual Studio 2012\Projects\testAdi\testAdi\bin\Debug\WebDriver.xml
+C:\Users\aglick\Documents\Visual Studio 2012\Projects\testAdi\testAdi\bin\Debug\WebDriver.Support.pdb
+C:\Users\aglick\Documents\Visual Studio 2012\Projects\testAdi\testAdi\bin\Debug\WebDriver.Support.xml
+C:\Users\aglick\Documents\Visual Studio 2012\Projects\testAdi\testAdi\obj\Debug\testAdi.exe
+C:\Users\aglick\Documents\Visual Studio 2012\Projects\testAdi\testAdi\obj\Debug\testAdi.pdb
+C:\Users\adi\Desktop\testAdi\testAdi\bin\Debug\testAdi.exe.config
+C:\Users\adi\Desktop\testAdi\testAdi\bin\Debug\testAdi.exe
+C:\Users\adi\Desktop\testAdi\testAdi\bin\Debug\testAdi.pdb
+C:\Users\adi\Desktop\testAdi\testAdi\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\adi\Desktop\testAdi\testAdi\bin\Debug\WebDriver.dll
+C:\Users\adi\Desktop\testAdi\testAdi\bin\Debug\WebDriver.Support.dll
+C:\Users\adi\Desktop\testAdi\testAdi\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\adi\Desktop\testAdi\testAdi\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\adi\Desktop\testAdi\testAdi\bin\Debug\WebDriver.pdb
+C:\Users\adi\Desktop\testAdi\testAdi\bin\Debug\WebDriver.xml
+C:\Users\adi\Desktop\testAdi\testAdi\bin\Debug\WebDriver.Support.pdb
+C:\Users\adi\Desktop\testAdi\testAdi\bin\Debug\WebDriver.Support.xml
+C:\Users\adi\Desktop\testAdi\testAdi\obj\Debug\testAdi.csprojResolveAssemblyReference.cache
+C:\Users\adi\Desktop\testAdi\testAdi\obj\Debug\testAdi.exe
+C:\Users\adi\Desktop\testAdi\testAdi\obj\Debug\testAdi.pdb
+E:\testAdi\testAdi\bin\Debug\testAdi.exe.config
+E:\testAdi\testAdi\obj\Debug\testAdi.exe
+E:\testAdi\testAdi\obj\Debug\testAdi.pdb
+E:\testAdi\testAdi\bin\Debug\testAdi.exe
+E:\testAdi\testAdi\bin\Debug\testAdi.pdb
+E:\testAdi\testAdi\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+E:\testAdi\testAdi\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+E:\testAdi\testAdi\bin\Debug\WebDriver.pdb
+E:\testAdi\testAdi\bin\Debug\WebDriver.xml
+E:\testAdi\testAdi\bin\Debug\WebDriver.Support.pdb
+E:\testAdi\testAdi\bin\Debug\WebDriver.Support.xml
+E:\testAdi\testAdi\obj\Debug\testAdi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,25 @@
+Cases:
+1.	Insert tasks:
+	verify that they indeed appear in the view of the “todo list” by name and count
+	verify that the “X items left” as in “X” active tasks is correct 
+2.	Hit “Active” link and verify that the list shown is indeed the active list 
+4.	In case no active tasks – verify the list is empty
+5.	Hit “Completed” link and verify that the list shown is indeed the Completed list 
+6.	In case there are no Completed tasks – verify the list is empty
+7.	Hit “Clear Completed” button and verify that indeed there are no tasks in completed list
+8.	Toggle “Active” task
+	verify that it was added to completed list , and was removed from Active list
+	verify that the “X items left” as in “X” active tasks is correct 
+
+9.	Toggle “Completed” 
+	verify that it was added to Active list , and was removed from Completed list
+	verify that the “X items left” as in “X” active tasks is correct
+10. 	check "destroy" button - verify that it indeed erases the item from the view and that “X” active tasks is correct
+11. 	check "toggle-All" button - verify that it indeed toggles all the items from the view and that “X” active tasks is correct
+
+None implemented cases:
+12. very long input - verify that UI doesn't break, and scrolling is not harmed
+13. different languages- Hebrew, Japanese , (since their font size is bigger than English)
+14. different browsers (Explorer, firefox , safari etc)
+15. different resolution - verify that UI doesn't break , and scrolling is not harmed
+

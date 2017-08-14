@@ -1,0 +1,23 @@
+num of tasks as written below updated:  test passed
+num of tasks as written below updated:  test passed
+num of tasks as written below updated:  test passed
+number of items in list:  test passed
+name of task:  test passed
+name of task:  test passed
+name of task:  test passed
+num of Complete tasks was updated after toggeling:  test passed
+num of Complete tasks was updated after toggeling:  test passed
+num of Complete tasks was updated after toggeling:  test passed
+link to completed list show the correct tasks:  test passed
+num of Active tasks was updated after toggeling:  test passed
+num of Active tasks was updated after toggeling:  test passed
+num of Active tasks was updated after toggeling:  test passed
+link to active list show the correct tasks:  test passed
+link to completed list show the correct tasks:  test passed
+indeed no tasks in list Active:  test passed
+indeed no tasks in list completed:  test passed
+link to active list show the correct tasks:  test passed
+link to active list show the correct tasks:  test passed
+
+
+ALL TEST CASES PASSED
